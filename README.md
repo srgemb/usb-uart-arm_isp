@@ -1,1 +1,11 @@
-# usb-uart-arm_isp
+### Конвертер USB - UART (ISP ARM).
+---
+![](usb-uart-arm-isp1.jpeg)
+
+![](usb-uart-arm-isp2.jpeg)
+---
+Два режима работы:
+1. UART с гальванической развязкой;
+2. ISP ARM (STM32, LPC) с гальванической развязкой.
+
+Режим выбирается переключателем.
